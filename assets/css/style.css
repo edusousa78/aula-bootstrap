@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+  background-color: rgb(6, 72, 83);
+  
+
+}
+
+
+
+.nav-link{
+  color:rgb(245, 245, 245);
+  font-weight:700;
+}
+
+.quemsomos{
+  
+  background-color: rgb(116, 126, 228);
+  color:antiquewhite;
+
+}
+
+.margin{
+  padding-top:10px;
+  padding-bottom: 30px;
+}
+
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
+.ul-stl{
+  list-style: none;
+  
+  
+}
+
+.ms-3{
+  display: inline-block;
+  color:rgb(21, 179, 87);
+  
+  
+}
